@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <div
+      className="card"
+      style={
+        Object {
+          "border": "1px solid grey",
+          "width": "18rem",
+        }
+      }
+    >
+      <img
+        className="card-img-top"
+        src="me-20110320.jpg"
+        style={
+          Object {
+            "width": "15rem",
+          }
+        }
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Nitromagix
+        </div>
+        <p
+          className="card-text"
+        >
+          My name is Martin but I go by Nitromagix. I'm getting back into software dev after a long hiatus.
+        </p>
+        <button
+          className="btn btn-primary"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          Go somewhere
+        </button>
+      </div>
+    </div>
+  </header>
+</div>
+`;
